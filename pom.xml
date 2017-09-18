@@ -18,8 +18,8 @@
     <dependency>
     <groupId>org.springframework</groupId>
     <artifactId>spring-core</artifactId>
-    <version>5.0.0.RC3</version>
-</dependency>
+    <version>4.3.9.RELEASE</version>
+   </dependency>
   </dependencies>
   <build>
     <finalName>apple</finalName>
